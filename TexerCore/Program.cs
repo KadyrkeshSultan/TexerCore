@@ -6,7 +6,10 @@ namespace TexerCore
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int a = 6;
+            int b = 7;
+            Console.WriteLine($"Hello World! {a + b}");
+            Console.ReadKey();
         }
     }
 }
