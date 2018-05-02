@@ -1,0 +1,2 @@
+# TexerCore
+Texer App
